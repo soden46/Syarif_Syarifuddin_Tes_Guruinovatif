@@ -1,6 +1,21 @@
 ## Tentang Proyek
+<p align="center">Tampilan Homepage</p>
+<p align="center"><a href="#" target="_blank"><img src="https://github.com/soden46/Syarif_Syarifuddin_Tes_Guruinovatif/blob/main/public/screenshot/index.png" width="400" alt="Tampilan Homepage"></a></p>
 
-<p align="center"><a href="#" target="_blank"><img src="https://github.com/soden46/Syarif_Syarifuddin_Tes_Guruinovatif/blob/main/public/screenshot/create.png" width="400" alt="Tampilan Homepage"></a></p>
+<p align="center">Tampilan Tambah Data</p>
+<p align="center"><a href="#" target="_blank"><img src="https://github.com/soden46/Syarif_Syarifuddin_Tes_Guruinovatif/blob/main/public/screenshot/create.png" width="400" alt="Tampilan Tambah Data"></a></p>
+
+<p align="center">Tampilan Simpan Data</p>
+<p align="center"><a href="#" target="_blank"><img src="https://github.com/soden46/Syarif_Syarifuddin_Tes_Guruinovatif/blob/main/public/screenshot/insert.png" width="400" alt="Tampilan Simpan data"></a></p>
+
+<p align="center">Tampilan Edit Data</p>
+<p align="center"><a href="#" target="_blank"><img src="https://github.com/soden46/Syarif_Syarifuddin_Tes_Guruinovatif/blob/main/public/screenshot/edit.png" width="400" alt="Tampilan Edit data"></a></p>
+
+<p align="center">Tampilan Update Data</p>
+<p align="center"><a href="#" target="_blank"><img src="https://github.com/soden46/Syarif_Syarifuddin_Tes_Guruinovatif/blob/main/public/screenshot/update.png" width="400" alt="Tampilan Update data"></a></p>
+
+<p align="center">Tampilan Hapus Data</p>
+<p align="center"><a href="#" target="_blank"><img src="https://github.com/soden46/Syarif_Syarifuddin_Tes_Guruinovatif/blob/main/public/screenshot/hapus.png" width="400" alt="Tampilan Hapus data"></a></p>
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
