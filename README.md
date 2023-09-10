@@ -11,9 +11,6 @@
 <p align="center">Tampilan Edit Data</p>
 <p align="center"><a href="#" target="_blank"><img src="https://github.com/soden46/Syarif_Syarifuddin_Tes_Guruinovatif/blob/main/public/screenshot/edit.png" width="400" alt="Tampilan Edit data"></a></p>
 
-<p align="center">Tampilan Update Data</p>
-<p align="center"><a href="#" target="_blank"><img src="https://github.com/soden46/Syarif_Syarifuddin_Tes_Guruinovatif/blob/main/public/screenshot/update.png" width="400" alt="Tampilan Update data"></a></p>
-
 <p align="center">Tampilan Hapus Data</p>
 <p align="center"><a href="#" target="_blank"><img src="https://github.com/soden46/Syarif_Syarifuddin_Tes_Guruinovatif/blob/main/public/screenshot/hapus.png" width="400" alt="Tampilan Hapus data"></a></p>
 
